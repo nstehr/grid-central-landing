@@ -52,9 +52,9 @@ features                                  :
     description                           : Discover the teams racing this season, their cars and where they are from.
     fontawesome_icon_name                 : flag-checkered 
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Widgets
+    description                           : Home screen widgets to keep you up to date on the next race
+    fontawesome_icon_name                 : flag-checkered
 
 
 
