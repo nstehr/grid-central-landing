@@ -7,6 +7,10 @@ include_in_header: true
 
 
 ### `Latest`
+# **Version 1.0.2**
+Added the ability to schedule reminders for your favourite races. Once you set a reminder, you'll be reminded at the start of race week
+and an hour before the green flag.
+
 # **Version 1.0.1**
 Updated the app for the 2025 season!. You can now filter by both championship and year. Also refreshed the look and feel of the 
 home screen widgets. 
